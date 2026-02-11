@@ -5,6 +5,8 @@ import { ArrowLeft, Package, Beaker, FileText } from 'lucide-react'
 import Link from 'next/link'
 import InquiryModal from '@/components/products/InquiryModal'
 
+export const runtime = 'edge'
+
 // Mock product data - will be replaced with database query
 const mockProduct = {
   id: '1',

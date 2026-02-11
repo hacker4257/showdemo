@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { z } from 'zod'
 
+export const runtime = 'edge'
+
 const contactSchema = z.object({
   name: z.string().min(1),
   email: z.string().email(),

@@ -1,6 +1,8 @@
 import { NextRequest, NextResponse } from 'next/server'
 import { z } from 'zod'
 
+export const runtime = 'edge'
+
 const inquirySchema = z.object({
   productId: z.string(),
   name: z.string().min(1),
