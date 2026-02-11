@@ -7,7 +7,7 @@ interface ProductCardProps {
   name: string
   casNumber?: string
   purity?: string
-  imageUrl?: string
+  imageUrl?: string | null
   categoryName: string
 }
 
