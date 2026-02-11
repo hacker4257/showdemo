@@ -1,0 +1,212 @@
+{
+  "nav": {
+    "home": "Home",
+    "products": "Products",
+    "categories": "Categories",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Global Leader in Pharmaceutical Solutions",
+      "subtitle": "High-quality compounds for drug discovery and development",
+      "browseProducts": "Browse Products",
+      "requestQuote": "Request Quote"
+    },
+    "features": {
+      "title": "Why Choose PharmaTrade",
+      "purity": {
+        "title": "High Purity",
+        "desc": "≥98% purity guaranteed on all compounds"
+      },
+      "quality": {
+        "title": "Quality Assured",
+        "desc": "ISO certified manufacturing facilities"
+      },
+      "shipping": {
+        "title": "Global Shipping",
+        "desc": "Fast delivery to 100+ countries"
+      },
+      "pricing": {
+        "title": "Competitive Pricing",
+        "desc": "Best value for research-grade compounds"
+      }
+    },
+    "categories": {
+      "title": "Product Categories",
+      "smallMolecules": {
+        "title": "Small Molecules",
+        "desc": "Comprehensive library of small molecule compounds for drug discovery"
+      },
+      "biologics": {
+        "title": "Biologics",
+        "desc": "High-quality biologics and biosimilars for research applications"
+      },
+      "peptides": {
+        "title": "Peptides",
+        "desc": "Custom peptide synthesis and catalog peptides"
+      },
+      "explore": "Explore"
+    },
+    "cta": {
+      "title": "Ready to Start Your Research?",
+      "subtitle": "Contact our team for custom synthesis and bulk orders",
+      "button": "Get in Touch"
+    }
+  },
+  "products": {
+    "title": "Product Catalog",
+    "subtitle": "Browse our comprehensive collection of pharmaceutical compounds",
+    "search": "Search by product name, CAS number...",
+    "filters": "Filters",
+    "category": "Category",
+    "allCategories": "All Categories",
+    "purity": "Purity",
+    "availability": "Availability",
+    "all": "All",
+    "inStock": "In Stock",
+    "customSynthesis": "Custom Synthesis",
+    "showing": "Showing {count} products",
+    "noResults": {
+      "title": "No products found",
+      "desc": "Try adjusting your search or filter criteria"
+    },
+    "viewDetails": "View Details",
+    "inquire": "Inquire"
+  },
+  "productDetail": {
+    "backToProducts": "Back to Products",
+    "inStock": "In Stock",
+    "chemicalStructure": "Chemical Structure",
+    "casNumber": "CAS Number",
+    "purity": "Purity",
+    "molecularFormula": "Molecular Formula",
+    "molecularWeight": "Molecular Weight",
+    "description": "Description",
+    "specifications": "Specifications",
+    "applications": "Applications",
+    "requestQuote": "Request a Quote",
+    "requestQuoteDesc": "Get pricing and availability information for this product.",
+    "inquireNow": "Inquire Now",
+    "needHelp": "Need Help?",
+    "contactSupport": "Contact our technical support team"
+  },
+  "inquiry": {
+    "title": "Request Quote",
+    "name": "Name",
+    "email": "Email",
+    "company": "Company",
+    "phone": "Phone",
+    "country": "Country",
+    "quantity": "Quantity",
+    "quantityPlaceholder": "e.g., 100mg, 1g, 10g",
+    "message": "Message",
+    "messagePlaceholder": "Any additional requirements or questions...",
+    "cancel": "Cancel",
+    "submit": "Submit Inquiry",
+    "submitting": "Submitting...",
+    "success": {
+      "title": "Inquiry Submitted!",
+      "desc": "We'll get back to you within 24 hours."
+    }
+  },
+  "contact": {
+    "title": "Contact Us",
+    "subtitle": "Get in touch with our team for inquiries, quotes, or technical support",
+    "email": "Email",
+    "emailDesc": "We'll respond within 24 hours",
+    "phone": "Phone",
+    "phoneHours": "Mon-Fri, 9am-6pm EST",
+    "address": "Address",
+    "businessHours": "Business Hours",
+    "hours": {
+      "weekday": "Monday - Friday: 9:00 AM - 6:00 PM",
+      "saturday": "Saturday: 10:00 AM - 4:00 PM",
+      "sunday": "Sunday: Closed"
+    },
+    "form": {
+      "title": "Send us a Message",
+      "name": "Name",
+      "email": "Email",
+      "company": "Company",
+      "subject": "Subject",
+      "message": "Message",
+      "messagePlaceholder": "Tell us about your inquiry...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": {
+        "title": "Message Sent Successfully!",
+        "desc": "Thank you for contacting us. We'll get back to you soon."
+      }
+    }
+  },
+  "about": {
+    "title": "About PharmaTrade",
+    "subtitle": "Your trusted partner in pharmaceutical research and development since 2006",
+    "whoWeAre": "Who We Are",
+    "description": {
+      "p1": "PharmaTrade is a leading global supplier of pharmaceutical compounds and research chemicals, specializing in high-quality products for drug discovery and development. Founded in 2006, we have grown to become a trusted partner for pharmaceutical and biotech companies worldwide.",
+      "p2": "Our comprehensive portfolio includes small molecules, biologics, peptides, ADCs/XDCs, and PROTACs, all manufactured to the highest quality standards. We serve research institutions, pharmaceutical companies, and biotech firms across more than 100 countries.",
+      "p3": "With state-of-the-art facilities and a team of experienced scientists, we are committed to advancing pharmaceutical research through reliable products and exceptional service."
+    },
+    "stats": {
+      "experience": "Years of Experience",
+      "products": "Products",
+      "countries": "Countries Served",
+      "satisfaction": "Customer Satisfaction"
+    },
+    "values": {
+      "title": "Our Values",
+      "quality": {
+        "title": "Quality First",
+        "desc": "ISO certified facilities ensuring the highest purity standards"
+      },
+      "customer": {
+        "title": "Customer Focus",
+        "desc": "Dedicated support team committed to your success"
+      },
+      "global": {
+        "title": "Global Reach",
+        "desc": "Reliable shipping and logistics to serve customers worldwide"
+      },
+      "innovation": {
+        "title": "Innovation",
+        "desc": "Continuously expanding our portfolio with cutting-edge compounds"
+      }
+    },
+    "certifications": {
+      "title": "Certifications & Compliance",
+      "iso": {
+        "title": "ISO 9001:2015",
+        "desc": "Quality Management System"
+      },
+      "gmp": {
+        "title": "GMP Certified",
+        "desc": "Good Manufacturing Practice"
+      },
+      "fda": {
+        "title": "FDA Registered",
+        "desc": "US Food and Drug Administration"
+      },
+      "ema": {
+        "title": "EMA Compliant",
+        "desc": "European Medicines Agency"
+      }
+    }
+  },
+  "footer": {
+    "description": "Leading global supplier of pharmaceutical compounds and research chemicals for drug discovery and development.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "quality": "Quality Control",
+    "contactUs": "Contact Us",
+    "copyright": "© {year} PharmaTrade. All rights reserved."
+  },
+  "common": {
+    "required": "*",
+    "search": "Search",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}

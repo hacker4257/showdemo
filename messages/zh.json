@@ -1,0 +1,212 @@
+{
+  "nav": {
+    "home": "首页",
+    "products": "产品",
+    "categories": "分类",
+    "about": "关于我们",
+    "contact": "联系我们"
+  },
+  "home": {
+    "hero": {
+      "title": "全球领先的医药解决方案供应商",
+      "subtitle": "为药物发现和开发提供高质量化合物",
+      "browseProducts": "浏览产品",
+      "requestQuote": "申请报价"
+    },
+    "features": {
+      "title": "为什么选择 PharmaTrade",
+      "purity": {
+        "title": "高纯度",
+        "desc": "所有化合物保证纯度≥98%"
+      },
+      "quality": {
+        "title": "质量保证",
+        "desc": "ISO认证的生产设施"
+      },
+      "shipping": {
+        "title": "全球配送",
+        "desc": "快速配送至100多个国家"
+      },
+      "pricing": {
+        "title": "竞争力价格",
+        "desc": "研究级化合物的最佳性价比"
+      }
+    },
+    "categories": {
+      "title": "产品分类",
+      "smallMolecules": {
+        "title": "小分子化合物",
+        "desc": "用于药物发现的全面小分子化合物库"
+      },
+      "biologics": {
+        "title": "生物制品",
+        "desc": "用于研究应用的高质量生物制品和生物类似药"
+      },
+      "peptides": {
+        "title": "肽类",
+        "desc": "定制肽合成和目录肽"
+      },
+      "explore": "探索"
+    },
+    "cta": {
+      "title": "准备开始您的研究了吗？",
+      "subtitle": "联系我们的团队进行定制合成和批量订购",
+      "button": "联系我们"
+    }
+  },
+  "products": {
+    "title": "产品目录",
+    "subtitle": "浏览我们全面的医药化合物系列",
+    "search": "按产品名称、CAS号搜索...",
+    "filters": "筛选",
+    "category": "分类",
+    "allCategories": "所有分类",
+    "purity": "纯度",
+    "availability": "库存状态",
+    "all": "全部",
+    "inStock": "有货",
+    "customSynthesis": "定制合成",
+    "showing": "显示 {count} 个产品",
+    "noResults": {
+      "title": "未找到产品",
+      "desc": "请尝试调整搜索或筛选条件"
+    },
+    "viewDetails": "查看详情",
+    "inquire": "询价"
+  },
+  "productDetail": {
+    "backToProducts": "返回产品列表",
+    "inStock": "有货",
+    "chemicalStructure": "化学结构",
+    "casNumber": "CAS号",
+    "purity": "纯度",
+    "molecularFormula": "分子式",
+    "molecularWeight": "分子量",
+    "description": "描述",
+    "specifications": "规格参数",
+    "applications": "应用",
+    "requestQuote": "申请报价",
+    "requestQuoteDesc": "获取此产品的价格和库存信息。",
+    "inquireNow": "立即询价",
+    "needHelp": "需要帮助？",
+    "contactSupport": "联系我们的技术支持团队"
+  },
+  "inquiry": {
+    "title": "申请报价",
+    "name": "姓名",
+    "email": "邮箱",
+    "company": "公司",
+    "phone": "电话",
+    "country": "国家",
+    "quantity": "数量",
+    "quantityPlaceholder": "例如：100mg, 1g, 10g",
+    "message": "留言",
+    "messagePlaceholder": "任何额外的要求或问题...",
+    "cancel": "取消",
+    "submit": "提交询价",
+    "submitting": "提交中...",
+    "success": {
+      "title": "询价已提交！",
+      "desc": "我们将在24小时内回复您。"
+    }
+  },
+  "contact": {
+    "title": "联系我们",
+    "subtitle": "联系我们的团队进行咨询、报价或技术支持",
+    "email": "邮箱",
+    "emailDesc": "我们将在24小时内回复",
+    "phone": "电话",
+    "phoneHours": "周一至周五，上午9点至下午6点（美东时间）",
+    "address": "地址",
+    "businessHours": "营业时间",
+    "hours": {
+      "weekday": "周一至周五：上午9:00 - 下午6:00",
+      "saturday": "周六：上午10:00 - 下午4:00",
+      "sunday": "周日：休息"
+    },
+    "form": {
+      "title": "给我们留言",
+      "name": "姓名",
+      "email": "邮箱",
+      "company": "公司",
+      "subject": "主题",
+      "message": "留言",
+      "messagePlaceholder": "告诉我们您的咨询内容...",
+      "submit": "发送消息",
+      "submitting": "发送中...",
+      "success": {
+        "title": "消息发送成功！",
+        "desc": "感谢您联系我们。我们会尽快回复您。"
+      }
+    }
+  },
+  "about": {
+    "title": "关于 PharmaTrade",
+    "subtitle": "自2006年以来，您值得信赖的医药研发合作伙伴",
+    "whoWeAre": "我们是谁",
+    "description": {
+      "p1": "PharmaTrade 是全球领先的医药化合物和研究化学品供应商，专注于为药物发现和开发提供高质量产品。自2006年成立以来，我们已成长为全球医药和生物技术公司值得信赖的合作伙伴。",
+      "p2": "我们的综合产品组合包括小分子、生物制品、肽类、ADCs/XDCs和PROTACs，所有产品均按照最高质量标准生产。我们为100多个国家的研究机构、制药公司和生物技术公司提供服务。",
+      "p3": "凭借最先进的设施和经验丰富的科学家团队，我们致力于通过可靠的产品和卓越的服务推进医药研究。"
+    },
+    "stats": {
+      "experience": "年经验",
+      "products": "产品",
+      "countries": "服务国家",
+      "satisfaction": "客户满意度"
+    },
+    "values": {
+      "title": "我们的价值观",
+      "quality": {
+        "title": "质量第一",
+        "desc": "ISO认证设施确保最高纯度标准"
+      },
+      "customer": {
+        "title": "客户至上",
+        "desc": "专业支持团队致力于您的成功"
+      },
+      "global": {
+        "title": "全球覆盖",
+        "desc": "可靠的运输和物流服务全球客户"
+      },
+      "innovation": {
+        "title": "创新",
+        "desc": "不断扩展我们的尖端化合物产品组合"
+      }
+    },
+    "certifications": {
+      "title": "认证与合规",
+      "iso": {
+        "title": "ISO 9001:2015",
+        "desc": "质量管理体系"
+      },
+      "gmp": {
+        "title": "GMP认证",
+        "desc": "良好生产规范"
+      },
+      "fda": {
+        "title": "FDA注册",
+        "desc": "美国食品药品监督管理局"
+      },
+      "ema": {
+        "title": "EMA合规",
+        "desc": "欧洲药品管理局"
+      }
+    }
+  },
+  "footer": {
+    "description": "全球领先的医药化合物和研究化学品供应商，为药物发现和开发提供服务。",
+    "quickLinks": "快速链接",
+    "services": "服务",
+    "quality": "质量控制",
+    "contactUs": "联系我们",
+    "copyright": "© {year} PharmaTrade. 保留所有权利。"
+  },
+  "common": {
+    "required": "*",
+    "search": "搜索",
+    "loading": "加载中...",
+    "error": "错误",
+    "success": "成功"
+  }
+}
