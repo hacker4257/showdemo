@@ -1,5 +1,4 @@
 import { NextRequest, NextResponse } from 'next/server'
-import { prisma } from '@/lib/db/prisma'
 import { z } from 'zod'
 
 const contactSchema = z.object({
@@ -15,33 +14,21 @@ export async function POST(request: NextRequest) {
     const body = await request.json()
     const validatedData = contactSchema.parse(body)
 
-    // Create contact submission in database
-    const contact = await prisma.contact.create({
-      data: {
-        name: validatedData.name,
-        email: validatedData.email,
-        company: validatedData.company,
-        subject: validatedData.subject,
-        message: validatedData.message,
-        status: 'NEW',
-      },
-    })
-
-    // TODO: Send email notification to admin
-    // await sendContactNotification(contact)
+    // Demo mode: Just return success without saving to database
+    console.log('Contact form submission:', validatedData)
 
     return NextResponse.json(
       {
         success: true,
         message: 'Message sent successfully',
-        contactId: contact.id,
+        contactId: 'demo-' + Date.now(),
       },
       { status: 201 }
     )
   } catch (error) {
     if (error instanceof z.ZodError) {
       return NextResponse.json(
-        { success: false, error: 'Invalid input data', details: error.errors },
+        { success: false, error: 'Invalid input data', details: error.issues },
         { status: 400 }
       )
     }
