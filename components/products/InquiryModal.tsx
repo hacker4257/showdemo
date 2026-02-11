@@ -77,7 +77,7 @@ export default function InquiryModal({ productName, productId, isOpen, onClose }
                 Inquiry Submitted!
               </h3>
               <p className="text-gray-600">
-                We'll get back to you within 24 hours.
+                We&apos;ll get back to you within 24 hours.
               </p>
             </div>
           ) : (

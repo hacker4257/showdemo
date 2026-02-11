@@ -61,7 +61,7 @@ export default function ContactPage() {
                     info@pharmatrade.com
                   </a>
                   <p className="text-sm text-gray-600 mt-1">
-                    We'll respond within 24 hours
+                    We&apos;ll respond within 24 hours
                   </p>
                 </div>
               </div>
@@ -129,7 +129,7 @@ export default function ContactPage() {
                     Message Sent Successfully!
                   </h3>
                   <p className="text-gray-600">
-                    Thank you for contacting us. We'll get back to you soon.
+                    Thank you for contacting us. We&apos;ll get back to you soon.
                   </p>
                 </div>
               ) : (
