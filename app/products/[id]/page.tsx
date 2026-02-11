@@ -33,7 +33,7 @@ const mockProduct = {
   inStock: true,
 }
 
-export default function ProductDetailPage({ params }: { params: { id: string } }) {
+export default function ProductDetailPage({ params }: { params: Promise<{ id: string }> }) {
   const [isInquiryOpen, setIsInquiryOpen] = useState(false)
   const product = mockProduct // In real app: fetch from database using params.id
 
